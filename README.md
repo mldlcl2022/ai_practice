@@ -8,5 +8,13 @@ This is because it's easier with .ipynb files to understand, and converting them
 <br>
 For example, in the case of using the ResNet model for an image classification task with the CIFAR10 dataset the filename is named as 'ResNet_cls_CIFAR10.ipynb'.  
 <br>
+task type  
+* reg : regression  
+* cls : classification  
+* pre : pretrain  
+* lp  : linear probing  
+* ft  : fine tuning  
+* fs  : few show learning  
+<br>
 Should you have any questions or concerns, please feel free to contact me at the email below. ⬇️</br>
 <div align="center"> 📫 mldlcl2022@gmail.com 📫 </div>

@@ -9,7 +9,6 @@ This is because it's easier with .ipynb files to understand, and converting them
 For example, when performing linear probing with ResNet model using the CIFAR10 dataset, the file name would be 'lp_ResNet_CIFAR10.ipynb'.  
 Another example is when conducting an experiment to calculate the ECE(Expected Calibration Error) of ResNet model using CIFAR10 dataset, the file name would be 'ece_ResNet_CIFAR10.ipynb'.  
 
-<br>
 < Task type >  
 * reg : regression  
 * cls : classification  
